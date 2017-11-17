@@ -43,3 +43,6 @@ Referrer Policy:no-referrer-when-downgrade<br>
   - set-cookie 부분을 Header에서 확인 할 수 있다.
     - refresh 할 때마다 set-cookie가 변하네.. 계속 session을 통해서 tracking 한다!!
   - 그 cookie를 그대로 이용한다!!
+
+
+- get방식 안되면 post방식 했을 때 되는 경우도 있다!! 
